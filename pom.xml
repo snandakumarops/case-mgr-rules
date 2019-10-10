@@ -6,7 +6,7 @@
   <artifactId>CEPTest</artifactId>
   <version>1.0.0</version>
   <packaging>kjar</packaging>
-  <name>CEPTest-1</name>
+  <name>CaseMgrRules</name>
   <description></description>
   <dependencies>
     <dependency>
