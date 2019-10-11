@@ -82,7 +82,7 @@
             <isOtherwise>false</isOtherwise>
           </typedDefaultValue>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>188</width>
           <header>Txn Risk</header>
           <constraintValueType>1</constraintValueType>
           <factField>txnRiskRating</factField>
@@ -112,7 +112,7 @@ txn.getTxnRiskRating() &gt; rskModel.getCaseRisk()</text>
       <childColumns>
         <org.drools.workbench.models.guided.dtable.shared.model.BRLConditionVariableColumn>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>174</width>
           <header>Txn Risk &gt; Case Risk</header>
           <constraintValueType>1</constraintValueType>
           <fieldType>Boolean</fieldType>
@@ -454,6 +454,7 @@ txn.getTxnRiskRating() &gt; rskModel.getCaseRisk()</text>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
+        <valueNumeric class="long">0</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_LONG</dataType>
         <isOtherwise>false</isOtherwise>
