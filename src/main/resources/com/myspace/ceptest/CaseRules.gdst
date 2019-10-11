@@ -199,7 +199,7 @@ txn.getTxnRiskRating() &gt; rskModel.getCaseRisk()</text>
       <childColumns>
         <org.drools.workbench.models.guided.dtable.shared.model.BRLActionVariableColumn>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>208</width>
           <header>CaseRisk same as TxnRisk?</header>
           <varName></varName>
           <fieldType>Boolean</fieldType>
@@ -486,7 +486,7 @@ txn.getTxnRiskRating() &gt; rskModel.getCaseRisk()</text>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueBoolean>false</valueBoolean>
+        <valueBoolean>true</valueBoolean>
         <valueString></valueString>
         <dataType>BOOLEAN</dataType>
         <isOtherwise>false</isOtherwise>
