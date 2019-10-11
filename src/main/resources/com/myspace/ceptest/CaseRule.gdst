@@ -121,7 +121,7 @@
       <parameters/>
       <definition>
         <org.drools.workbench.models.datamodel.rule.FreeFormLine>
-          <text>rskModel.caseRisk() &gt; txn.txnRiskRating()</text>
+          <text>RiskModel(this.caseRisk &gt; txn.txnRiskRating)</text>
         </org.drools.workbench.models.datamodel.rule.FreeFormLine>
       </definition>
       <childColumns>
