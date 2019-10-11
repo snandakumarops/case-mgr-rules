@@ -1,0 +1,30 @@
+<graph>
+  <entries>
+    <entry>
+      <pathHead class="org.uberfire.backend.vfs.PathFactory$PathImpl">
+        <uri>default://master@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/fraudRule.gdst</uri>
+        <fileName>fraudRule.gdst</fileName>
+        <attributes/>
+        <hasVersionSupport>true</hasVersionSupport>
+      </pathHead>
+      <pathVersion class="org.uberfire.backend.vfs.PathFactory$PathImpl">
+        <uri>default://d35c8ad2d9fead9ec38e7e089f66e08933f34337@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/fraudRule.gdst</uri>
+        <fileName>fraudRule.gdst</fileName>
+        <hasVersionSupport>true</hasVersionSupport>
+      </pathVersion>
+    </entry>
+    <entry>
+      <pathHead class="org.uberfire.backend.vfs.PathFactory$PathImpl">
+        <uri>default://master@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/rulesetresolutionrule.gdst</uri>
+        <fileName>rulesetresolutionrule.gdst</fileName>
+        <attributes/>
+        <hasVersionSupport>true</hasVersionSupport>
+      </pathHead>
+      <pathVersion class="org.uberfire.backend.vfs.PathFactory$PathImpl">
+        <uri>default://ae1def9b0de2551d3b6e04fff73fe3c8eb90bd60@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/rulesetresolutionrule.gdst</uri>
+        <fileName>rulesetresolutionrule.gdst</fileName>
+        <hasVersionSupport>true</hasVersionSupport>
+      </pathVersion>
+    </entry>
+  </entries>
+</graph>
