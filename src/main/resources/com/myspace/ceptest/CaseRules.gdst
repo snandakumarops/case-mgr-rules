@@ -105,14 +105,14 @@
       <parameters/>
       <definition>
         <org.drools.workbench.models.datamodel.rule.FreeFormLine>
-          <text>when 
+          <text>
 txn.getTxnRiskRating() &gt; rskModel.getCaseRisk()</text>
         </org.drools.workbench.models.datamodel.rule.FreeFormLine>
       </definition>
       <childColumns>
         <org.drools.workbench.models.guided.dtable.shared.model.BRLConditionVariableColumn>
           <hideColumn>false</hideColumn>
-          <width>174</width>
+          <width>100</width>
           <header>Txn Risk &gt; Case Risk</header>
           <constraintValueType>1</constraintValueType>
           <fieldType>Boolean</fieldType>
