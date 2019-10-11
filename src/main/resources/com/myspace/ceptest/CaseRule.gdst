@@ -230,7 +230,7 @@
       <header>Case Queue = Txn Rating</header>
       <definition>
         <org.drools.workbench.models.datamodel.rule.FreeFormLine>
-          <text>rskModel.setCaseQueue(txn.getRiskRating());</text>
+          <text>rskModel.setCaseQueue(txn.getTxnRiskRating());</text>
         </org.drools.workbench.models.datamodel.rule.FreeFormLine>
       </definition>
       <childColumns>
