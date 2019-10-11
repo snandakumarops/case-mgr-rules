@@ -1,30 +1,38 @@
 <graph>
   <entries>
     <entry>
-      <pathHead class="org.uberfire.backend.vfs.PathFactory$PathImpl">
-        <uri>default://master@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/fraudRule.gdst</uri>
-        <fileName>fraudRule.gdst</fileName>
-        <attributes/>
-        <hasVersionSupport>true</hasVersionSupport>
+      <pathHead class="org.uberfire.backend.vfs.impl.ObservablePathImpl">
+        <path class="org.uberfire.backend.vfs.PathFactory$PathImpl">
+          <uri>default://master@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/fraudRule.gdst</uri>
+          <fileName>fraudRule.gdst</fileName>
+          <attributes/>
+          <hasVersionSupport>true</hasVersionSupport>
+        </path>
       </pathHead>
       <pathVersion class="org.uberfire.backend.vfs.PathFactory$PathImpl">
         <uri>default://d35c8ad2d9fead9ec38e7e089f66e08933f34337@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/fraudRule.gdst</uri>
         <fileName>fraudRule.gdst</fileName>
-        <hasVersionSupport>true</hasVersionSupport>
+        <hasVersionSupport>false</hasVersionSupport>
       </pathVersion>
+      <x>-132.0</x>
+      <y>-524.0</y>
     </entry>
     <entry>
-      <pathHead class="org.uberfire.backend.vfs.PathFactory$PathImpl">
-        <uri>default://master@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/rulesetresolutionrule.gdst</uri>
-        <fileName>rulesetresolutionrule.gdst</fileName>
-        <attributes/>
-        <hasVersionSupport>true</hasVersionSupport>
+      <pathHead class="org.uberfire.backend.vfs.impl.ObservablePathImpl">
+        <path class="org.uberfire.backend.vfs.PathFactory$PathImpl">
+          <uri>default://master@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/rulesetresolutionrule.gdst</uri>
+          <fileName>rulesetresolutionrule.gdst</fileName>
+          <attributes/>
+          <hasVersionSupport>true</hasVersionSupport>
+        </path>
       </pathHead>
       <pathVersion class="org.uberfire.backend.vfs.PathFactory$PathImpl">
-        <uri>default://ae1def9b0de2551d3b6e04fff73fe3c8eb90bd60@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/rulesetresolutionrule.gdst</uri>
+        <uri>default://fa4300c34521c8f47aa84027353191e4844a5591@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/rulesetresolutionrule.gdst</uri>
         <fileName>rulesetresolutionrule.gdst</fileName>
-        <hasVersionSupport>true</hasVersionSupport>
+        <hasVersionSupport>false</hasVersionSupport>
       </pathVersion>
+      <x>-277.0</x>
+      <y>-933.0</y>
     </entry>
   </entries>
 </graph>
