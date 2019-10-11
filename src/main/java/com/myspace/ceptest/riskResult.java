@@ -6,12 +6,33 @@ package com.myspace.ceptest;
 
 public class riskResult implements java.io.Serializable {
 
-    static final long serialVersionUID = 1L;
+	static final long serialVersionUID = 1L;
 
-    public riskResult() {
-    }
+	private java.lang.String orgProduct;
+	private java.lang.Integer risk;
 
+	public riskResult() {
+	}
 
+	public java.lang.String getOrgProduct() {
+		return this.orgProduct;
+	}
 
+	public void setOrgProduct(java.lang.String orgProduct) {
+		this.orgProduct = orgProduct;
+	}
+
+	public java.lang.Integer getRisk() {
+		return this.risk;
+	}
+
+	public void setRisk(java.lang.Integer risk) {
+		this.risk = risk;
+	}
+
+	public riskResult(java.lang.String orgProduct, java.lang.Integer risk) {
+		this.orgProduct = orgProduct;
+		this.risk = risk;
+	}
 
 }
