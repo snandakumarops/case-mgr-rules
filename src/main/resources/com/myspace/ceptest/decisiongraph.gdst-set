@@ -10,7 +10,7 @@
         </path>
       </pathHead>
       <pathVersion class="org.uberfire.backend.vfs.PathFactory$PathImpl">
-        <uri>default://794e14d015e90be8b61f190ab52af50c1a0300b9@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/CaseRule.gdst</uri>
+        <uri>default://36459abd3c88d3c86be361890fb894ed1af32df7@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/CaseRule.gdst</uri>
         <fileName>CaseRule.gdst</fileName>
         <hasVersionSupport>false</hasVersionSupport>
       </pathVersion>
