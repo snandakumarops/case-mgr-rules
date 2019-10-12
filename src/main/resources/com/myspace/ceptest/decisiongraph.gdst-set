@@ -3,23 +3,6 @@
     <entry>
       <pathHead class="org.uberfire.backend.vfs.impl.ObservablePathImpl">
         <path class="org.uberfire.backend.vfs.PathFactory$PathImpl">
-          <uri>default://master@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/rulesetresolutionrule.gdst</uri>
-          <fileName>rulesetresolutionrule.gdst</fileName>
-          <attributes/>
-          <hasVersionSupport>true</hasVersionSupport>
-        </path>
-      </pathHead>
-      <pathVersion class="org.uberfire.backend.vfs.PathFactory$PathImpl">
-        <uri>default://fa4300c34521c8f47aa84027353191e4844a5591@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/rulesetresolutionrule.gdst</uri>
-        <fileName>rulesetresolutionrule.gdst</fileName>
-        <hasVersionSupport>false</hasVersionSupport>
-      </pathVersion>
-      <x>-985.0</x>
-      <y>-1141.0</y>
-    </entry>
-    <entry>
-      <pathHead class="org.uberfire.backend.vfs.impl.ObservablePathImpl">
-        <path class="org.uberfire.backend.vfs.PathFactory$PathImpl">
           <uri>default://master@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/CaseRule.gdst</uri>
           <fileName>CaseRule.gdst</fileName>
           <attributes/>
@@ -50,6 +33,23 @@
       </pathVersion>
       <x>-1168.0</x>
       <y>-743.0</y>
+    </entry>
+    <entry>
+      <pathHead class="org.uberfire.backend.vfs.impl.ObservablePathImpl">
+        <path class="org.uberfire.backend.vfs.PathFactory$PathImpl">
+          <uri>default://master@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/rulesetresolutionrule.gdst</uri>
+          <fileName>rulesetresolutionrule.gdst</fileName>
+          <attributes/>
+          <hasVersionSupport>true</hasVersionSupport>
+        </path>
+      </pathHead>
+      <pathVersion class="org.uberfire.backend.vfs.PathFactory$PathImpl">
+        <uri>default://fa4300c34521c8f47aa84027353191e4844a5591@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/rulesetresolutionrule.gdst</uri>
+        <fileName>rulesetresolutionrule.gdst</fileName>
+        <hasVersionSupport>false</hasVersionSupport>
+      </pathVersion>
+      <x>-373.0</x>
+      <y>-1073.0</y>
     </entry>
   </entries>
 </graph>
