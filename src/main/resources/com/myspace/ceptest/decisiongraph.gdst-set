@@ -1,0 +1,43 @@
+<graph>
+  <entries>
+    <entry>
+      <pathHead class="org.uberfire.backend.vfs.PathFactory$PathImpl">
+        <uri>default://master@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/CaseRule.gdst</uri>
+        <fileName>CaseRule.gdst</fileName>
+        <attributes/>
+        <hasVersionSupport>true</hasVersionSupport>
+      </pathHead>
+      <pathVersion class="org.uberfire.backend.vfs.PathFactory$PathImpl">
+        <uri>default://a371d0064bd98ef841400e8c6494c1ff3ab5b9dc@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/CaseRule.gdst</uri>
+        <fileName>CaseRule.gdst</fileName>
+        <hasVersionSupport>true</hasVersionSupport>
+      </pathVersion>
+    </entry>
+    <entry>
+      <pathHead class="org.uberfire.backend.vfs.PathFactory$PathImpl">
+        <uri>default://master@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/fraudRule.gdst</uri>
+        <fileName>fraudRule.gdst</fileName>
+        <attributes/>
+        <hasVersionSupport>true</hasVersionSupport>
+      </pathHead>
+      <pathVersion class="org.uberfire.backend.vfs.PathFactory$PathImpl">
+        <uri>default://d35c8ad2d9fead9ec38e7e089f66e08933f34337@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/fraudRule.gdst</uri>
+        <fileName>fraudRule.gdst</fileName>
+        <hasVersionSupport>true</hasVersionSupport>
+      </pathVersion>
+    </entry>
+    <entry>
+      <pathHead class="org.uberfire.backend.vfs.PathFactory$PathImpl">
+        <uri>default://master@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/rulesetresolutionrule.gdst</uri>
+        <fileName>rulesetresolutionrule.gdst</fileName>
+        <attributes/>
+        <hasVersionSupport>true</hasVersionSupport>
+      </pathHead>
+      <pathVersion class="org.uberfire.backend.vfs.PathFactory$PathImpl">
+        <uri>default://fa4300c34521c8f47aa84027353191e4844a5591@MySpace/dynamic-rules/src/main/resources/com/myspace/ceptest/rulesetresolutionrule.gdst</uri>
+        <fileName>rulesetresolutionrule.gdst</fileName>
+        <hasVersionSupport>true</hasVersionSupport>
+      </pathVersion>
+    </entry>
+  </entries>
+</graph>
